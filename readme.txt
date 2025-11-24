@@ -1,4 +1,4 @@
-This is a simple Task managing CLI app that I made for completing roadmap.sh .
+This is a simple Task managing CLI app that I made for completing https://roadmap.sh/projects/task-tracker.
 To use this CLI you need to envoke python over the main.py file add add comand line arguments.
 The commands are.
 
