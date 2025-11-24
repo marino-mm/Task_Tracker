@@ -179,3 +179,4 @@ if __name__ == "__main__":
         task_list(cli_input)
     elif "mark" in command:
         task_change_status(cli_input)
+    print("Unknown command")
